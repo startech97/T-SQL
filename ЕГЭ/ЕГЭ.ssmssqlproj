@@ -1,0 +1,214 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ЕГЭ">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="10.0.0.156\MSSQLCOIKKO:LOCAL\Стародубов_ДИ">
+          <Created>2021-03-10T14:57:44.4680574+03:00</Created>
+          <Type>SQL</Type>
+          <Server>10.0.0.156\MSSQLCOIKKO</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>COIKKO</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="PC-45-1040382\MSSQLCOIKKO:LOCAL\Стародубов_ДИ">
+          <Created>2021-03-05T08:52:29.0351342+03:00</Created>
+          <Type>SQL</Type>
+          <Server>PC-45-1040382\MSSQLCOIKKO</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+        <ConnectionNode Name="PC-45-1040382\SQLEXPRESS:LOCAL\Стародубов_ДИ">
+          <Created>2021-01-29T10:00:58.0763689+03:00</Created>
+          <Type>SQL</Type>
+          <Server>PC-45-1040382\SQLEXPRESS</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB>Northwind</InitialDB>
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName>Microsoft SQL Server Management Studio - Query</ApplicationName>
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name=".1Русский язык 2019.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PC-45-1040382\MSSQLCOIKKO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PC-45-1040382\MSSQLCOIKKO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>.1Русский язык 2019.sql</FullPath>
+        </FileNode>
+        <FileNode Name=".2Математика2019.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PC-45-1040382\MSSQLCOIKKO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PC-45-1040382\MSSQLCOIKKO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>.2Математика2019.sql</FullPath>
+        </FileNode>
+        <FileNode Name=".3Физика2019.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PC-45-1040382\MSSQLCOIKKO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PC-45-1040382\MSSQLCOIKKO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>.3Физика2019.sql</FullPath>
+        </FileNode>
+        <FileNode Name="1.Данные русский.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PC-45-1040382\MSSQLCOIKKO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PC-45-1040382\MSSQLCOIKKO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>1.Данные русский.sql</FullPath>
+        </FileNode>
+        <FileNode Name="12. Обществознание.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PC-45-1040382\MSSQLCOIKKO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PC-45-1040382\MSSQLCOIKKO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>12. Обществознание.sql</FullPath>
+        </FileNode>
+        <FileNode Name="18.Литература.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PC-45-1040382\MSSQLCOIKKO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PC-45-1040382\MSSQLCOIKKO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>18.Литература.sql</FullPath>
+        </FileNode>
+        <FileNode Name="2.Данные математика.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PC-45-1040382\MSSQLCOIKKO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PC-45-1040382\MSSQLCOIKKO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>2.Данные математика.sql</FullPath>
+        </FileNode>
+        <FileNode Name="3.Данные физика.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PC-45-1040382\MSSQLCOIKKO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PC-45-1040382\MSSQLCOIKKO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>3.Данные физика.sql</FullPath>
+        </FileNode>
+        <FileNode Name="4.Данные химия.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PC-45-1040382\MSSQLCOIKKO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PC-45-1040382\MSSQLCOIKKO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>4.Данные химия.sql</FullPath>
+        </FileNode>
+        <FileNode Name="5.Данные Информатика и ИКТ.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:10.0.0.156\MSSQLCOIKKO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>10.0.0.156\MSSQLCOIKKO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>5.Данные Информатика и ИКТ.sql</FullPath>
+        </FileNode>
+        <FileNode Name="6.Биология.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:10.0.0.156\MSSQLCOIKKO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>10.0.0.156\MSSQLCOIKKO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>6.Биология.sql</FullPath>
+        </FileNode>
+        <FileNode Name="7.История.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:10.0.0.156\MSSQLCOIKKO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>10.0.0.156\MSSQLCOIKKO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>7.История.sql</FullPath>
+        </FileNode>
+        <FileNode Name="8.География.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:10.0.0.156\MSSQLCOIKKO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>10.0.0.156\MSSQLCOIKKO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>8.География.sql</FullPath>
+        </FileNode>
+        <FileNode Name="9.Английский.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PC-45-1040382\MSSQLCOIKKO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PC-45-1040382\MSSQLCOIKKO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>9.Английский.sql</FullPath>
+        </FileNode>
+        <FileNode Name="англ структ.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PC-45-1040382\MSSQLCOIKKO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PC-45-1040382\MSSQLCOIKKO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>англ структ.sql</FullPath>
+        </FileNode>
+        <FileNode Name="в js aнгл.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PC-45-1040382\MSSQLCOIKKO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PC-45-1040382\MSSQLCOIKKO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>в js aнгл.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Добавить кластер.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PC-45-1040382\MSSQLCOIKKO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PC-45-1040382\MSSQLCOIKKO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Добавить кластер.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Добавление тестовой школы.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PC-45-1040382\MSSQLCOIKKO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PC-45-1040382\MSSQLCOIKKO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Добавление тестовой школы.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Загрузка в рхд.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PC-45-1040382\MSSQLCOIKKO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PC-45-1040382\MSSQLCOIKKO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Загрузка в рхд.sql</FullPath>
+        </FileNode>
+        <FileNode Name="из пит в оы Мат.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PC-45-1040382\MSSQLCOIKKO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PC-45-1040382\MSSQLCOIKKO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>из пит в оы Мат.sql</FullPath>
+        </FileNode>
+        <FileNode Name="из Питона в js.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PC-45-1040382\MSSQLCOIKKO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PC-45-1040382\MSSQLCOIKKO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>из Питона в js.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Питон мат.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PC-45-1040382\MSSQLCOIKKO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PC-45-1040382\MSSQLCOIKKO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Питон мат.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Пополнение логинов.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PC-45-1040382\MSSQLCOIKKO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PC-45-1040382\MSSQLCOIKKO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Пополнение логинов.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Создаем шаблон для питона.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PC-45-1040382\MSSQLCOIKKO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PC-45-1040382\MSSQLCOIKKO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Создаем шаблон для питона.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Создание сырого файла исходника .sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PC-45-1040382\MSSQLCOIKKO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PC-45-1040382\MSSQLCOIKKO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Создание сырого файла исходника .sql</FullPath>
+        </FileNode>
+        <FileNode Name="Считаем результаты по кластерам.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PC-45-1040382\MSSQLCOIKKO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PC-45-1040382\MSSQLCOIKKO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Считаем результаты по кластерам.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Удаление кринжа.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:PC-45-1040382\MSSQLCOIKKO:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>PC-45-1040382\MSSQLCOIKKO</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Удаление кринжа.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
